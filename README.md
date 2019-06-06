@@ -7,6 +7,7 @@ Branch numbers correspond to task numbers.
 3rd task's code is Denis Stepulenok's refactored code. Original - https://gitlab.com/eltech/tpr_solutions/blob/master/machines.py.
 
 Tasks texts (Russian):
+
 1st) На первом складе (А1) содержится сталь двух марок: 3900 т марки «а» и 4500 т марки «б».
 Сталь этих марок содержится также и на втором складе (А2) в следующих количествах:
 5900 т марки «а» и 4200 т марки «б».

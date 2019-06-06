@@ -2,7 +2,8 @@
 Solving tasks of linear and dynamic programming methods using python3.
 
 Tasks developed by Andrey Ponomarev (https://avponomarev.bitbucket.io/tasks.html).
-Branch numbers correspond to task numbers.
+
+Dir numbers correspond to task numbers.
 1 and 2 tasks were solved as linear programming tasks, 3 - as dynamic.
 3rd task's code is Denis Stepulenok's refactored code. Original - https://gitlab.com/eltech/tpr_solutions/blob/master/machines.py.
 
